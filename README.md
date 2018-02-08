@@ -1,0 +1,1 @@
+# django toy blog projects
